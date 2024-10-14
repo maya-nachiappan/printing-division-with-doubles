@@ -9,8 +9,11 @@ using namespace std;
  
 int main()
 {
+    // initializes variables
     double x = 10;
     double y = 3;
+    
+    // division of variables
     double z = x/y;
     cout << z << endl;
    return 0;
